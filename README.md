@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepmalya3D
-- 👀 I’m interested in Data Structures, Machine Learning & Statistics
+- 👀 I’m interested in Deep Learning, Machine Learning, Data Structures & Statistics
 - 🌱 Aspiring Data Scientist
 
 

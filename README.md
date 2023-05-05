@@ -46,10 +46,12 @@ I'm a **Student** and **Data Science Enthusiast** with a strong passion for leve
 
 ## 🌟 My Projects
 
+- **[Text Generation using LSTM](https://github.com/Deepmalya3D/Text-Generation-using-LSTM)**: This project presents a text generation model using a bidirectional LSTM (Long Short-Term Memory) with encoder-decoder layers. The model is trained on COVID-19 research corpus, and its purpose is to generate abstracts from the corpus.
 - **[Human Action Recognition](https://github.com/Deepmalya3D/Human-Action-Recognition)**: In this project, I have performed image classification of human actions using CNNs and improved the accuracy of our model using Transfer Learning.
 - **[Stock Price Prediction](https://github.com/Deepmalya3D/Stock-Price-Prediction)**: In this project, I have performed stock price prediction of four stocks using RNNs & LSTM.
 - **[Fake News Detection](https://github.com/Deepmalya3D/Fake-News-Detection)**: In this project, I have performed fake news detection using LSTM and achieved over 99% accuracy.
 - **[SparsePCA.jl](https://github.com/Deepmalya3D/SparsePCA.jl)**: SparsePCA.jl is a Julia package that provides an implementation of the sparse principal component analysis (SparsePCA) algorithm.
+- **[Overhead MNIST](https://github.com/Deepmalya3D/OMNIST)**: This project uses the OverheadMNIST dataset to explore semi-supervised learning, combining unsupervised and supervised techniques.
 - **[Footwear Classification](https://github.com/Deepmalya3D/Footwear-Classification)**: In this project, I have performed image classification of footwear using a multilayer perceptron model.
 - **[Credit Card Customers](https://github.com/Deepmalya3D/Credit-Card-Customers)**: Visualization of Credit Card user base using R, Ggplot2 and others packages to find trends and patterns in credit cards user-base.
 
